@@ -40,5 +40,4 @@ This screenshot shows the main interface of the BMI calculator application. User
 
 ![Calculator Interface](calc.png)
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
