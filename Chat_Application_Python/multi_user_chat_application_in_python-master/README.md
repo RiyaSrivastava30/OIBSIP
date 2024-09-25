@@ -1,4 +1,4 @@
-# multi_user_chat_application_in_python
+# Chat_Application_Python
 
 This repository contains the source codes for a multi-user group chat application in Python. See video of running application here: https://youtu.be/MEKBzxL8xHI
 
