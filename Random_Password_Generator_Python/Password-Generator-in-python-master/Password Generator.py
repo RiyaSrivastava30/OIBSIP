@@ -4,7 +4,7 @@ def generatePassword(pwlength):
 
     alphabet = "abcdefghijklmnopqrstuvwxyz"
 
-    passwords = [] 
+    passwords =[] 
 
     for i in pwlength:
         
